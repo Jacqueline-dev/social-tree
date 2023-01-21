@@ -75,3 +75,7 @@ a {
   left: 601px;
   top: 798px;
 }
+
+@media (max-width: 414px) {
+  
+}
